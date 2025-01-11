@@ -1,6 +1,6 @@
 package assets.src;
 
-import assets.exceptions.TaskException;
+import assets.exception.*;
 
 import java.util.ArrayList;
 
