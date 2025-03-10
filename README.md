@@ -21,3 +21,6 @@ A simple and user-friendly console-based **Task Manager** application built in *
   - Console-based UI
   - Core Java Libraries
 - **Java Version**: Java 8 or later
+
+## **Currently implementing**
+- **JavaFX framework** for UI
